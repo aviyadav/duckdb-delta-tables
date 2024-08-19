@@ -1,3 +1,3 @@
 # duckdb-delta-tables
 
-#### RUN - jyupter notebook
+#### RUN - jupyter notebook
